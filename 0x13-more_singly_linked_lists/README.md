@@ -29,4 +29,4 @@ a function that frees a listint_t list.
 This function can free lists with a loop
 You should go though the list only once
 task14
-a function that finds the loop in a linked list.
+a function that finds the loop in a linked list
